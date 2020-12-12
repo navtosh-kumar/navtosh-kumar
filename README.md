@@ -1,18 +1,20 @@
 ### Hi there, I'm Navtosh 👋
 
-## I'm a 
+## I am a passionate learner who believes in collaboration to solve problems in Computer Science. I enjoy building user-centric products by using the skill of Full Stack Development. I continually aim to hone my expertise in several programming tools and environment, and to push the envelope in Computer Science with new technologies and discipline.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## I am highly inclined towards:
+
+- 🔭 System Design
+- 🌱 Full Stack Development
+- 👯 Data Structures and Algorithms
+- 🥅 Product Design
+- ⚡ Entrepreneurship
 
 ### Connect with me:
 
 [<img align="left" alt="navtosh-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="navtosh-das | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="navtosh-das | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="navtosh-das | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
