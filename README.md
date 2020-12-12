@@ -7,8 +7,8 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 - 👨‍💻 System Design
 - 🚀 Full Stack Development
 - 🎲 Data Structures and Algorithms
-- 📱 Product Design
-- ⚡ Entrepreneurship
+- 🎯 Product Design
+- 👔 Entrepreneurship
 
 ### Connect with me:
 
@@ -64,7 +64,7 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Navtosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navtosh-das&show_icons=true&hide_border=true" />
+  <img align="left" alt="Navtosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navtosh-das&count_private=true&hide=stars,prs&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
