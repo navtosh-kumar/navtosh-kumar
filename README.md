@@ -4,10 +4,10 @@
 
 ## I am highly inclined towards:
 
-- 🔭 System Design
-- 🌱 Full Stack Development
-- 👯 Data Structures and Algorithms
-- 🥅 Product Design
+- 👨‍💻 System Design
+- 🚀 Full Stack Development
+- 🎲 Data Structures and Algorithms
+- 📱 Product Design
 - ⚡ Entrepreneurship
 
 ### Connect with me:
