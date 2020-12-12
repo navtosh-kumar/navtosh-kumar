@@ -1,4 +1,4 @@
-### Hi there, I'm Navtosh 👋
+### Hi there, I'm Navtosh - 3rd Year Undergraduate IIT BHU 👋
 
 I am a passionate learner who believes in collaboration to solve problems in Computer Science. I enjoy building user-centric products by using the skill of Full Stack Development. I continually aim to hone my expertise in several programming tools and environment, and to push the envelope in Computer Science with new technologies and discipline.
 
