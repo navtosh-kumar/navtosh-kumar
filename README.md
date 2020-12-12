@@ -37,10 +37,6 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sort an array of 0s, 1s and 2s — Dutch national flag problem](https://medium.com/enjoy-algorithm/sort-an-array-of-0s-1s-and-2s-b4e61533e750)
-- [Sort an array in a waveform](https://medium.com/enjoy-algorithm/sort-an-array-in-wave-form-9c88ed34b7f2)
-- [Equilibrium index of an array](https://medium.com/enjoy-algorithm/equilibrium-index-of-an-array-d1b06f067153)
-- [Find the row with the maximum number of 1s](https://medium.com/enjoy-algorithm/find-the-row-with-the-maximum-number-of-1s-3193b568c78)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@navtosh2001)
