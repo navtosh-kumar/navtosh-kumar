@@ -37,14 +37,13 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Sort an array of 0s, 1s and 2s — Dutch national flag problem](https://medium.com/enjoy-algorithm/sort-an-array-of-0s-1s-and-2s-b4e61533e750)
+- [Sort an array in a waveform](https://medium.com/enjoy-algorithm/sort-an-array-in-wave-form-9c88ed34b7f2)
+- [Equilibrium index of an array](https://medium.com/enjoy-algorithm/equilibrium-index-of-an-array-d1b06f067153)
+- [Find the row with the maximum number of 1s](https://medium.com/enjoy-algorithm/find-the-row-with-the-maximum-number-of-1s-3193b568c78)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@navtosh2001)
 
 ---
 
