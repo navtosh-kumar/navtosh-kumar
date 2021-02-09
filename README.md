@@ -12,9 +12,9 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 
 ### Connect with me:
 
-[<img align="left" alt="navtosh-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="navtosh-das | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="navtosh-das | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="navtosh-kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="navtosh-kumar | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="navtosh-kumar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -51,7 +51,7 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Navtosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navtosh-das&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Navtosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navtosh-kumar&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
