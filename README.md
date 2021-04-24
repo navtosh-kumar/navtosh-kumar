@@ -55,6 +55,6 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/navtosh-das-215ab316a/
+[linkedin]: https://www.linkedin.com/in/navtosh-kumar/
 [medium]: https://medium.com/@navtosh2001
 [facebook]: https://www.facebook.com/navtosh.kumar/
