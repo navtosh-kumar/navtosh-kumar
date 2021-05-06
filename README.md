@@ -37,11 +37,11 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get started with Competitive Programming?](https://medium.com/enjoy-algorithm/how-to-get-started-with-competitive-programming-5bb11e641adb?source=rss-b64aaa15ce44------2)
+- [How to Approach System Design Interview](https://medium.com/enjoy-algorithm/how-to-approach-system-design-interview-4d8689813173?source=rss-b64aaa15ce44------2)
 - [Caching — System Design Concept](https://medium.com/enjoy-algorithm/caching-system-design-concept-500134cff300?source=rss-b64aaa15ce44------2)
 - [Sort an array of 0s, 1s and 2s](https://medium.com/enjoy-algorithm/sort-an-array-of-0s-1s-and-2s-b4e61533e750?source=rss-b64aaa15ce44------2)
 - [Sort an array in wave form](https://medium.com/enjoy-algorithm/sort-an-array-in-wave-form-9c88ed34b7f2?source=rss-b64aaa15ce44------2)
-- [Equilibrium index of an array](https://medium.com/enjoy-algorithm/equilibrium-index-of-an-array-d1b06f067153?source=rss-b64aaa15ce44------2)
-- [Find the row with the maximum number of 1s](https://medium.com/enjoy-algorithm/find-the-row-with-the-maximum-number-of-1s-3193b568c78?source=rss-b64aaa15ce44------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@navtosh2001)
