@@ -37,11 +37,11 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Network Protocols — System Design Concept](https://medium.com/enjoy-algorithm/network-protocols-cb979547a114?source=rss-b64aaa15ce44------2)
 - [Trapping Rain Water](https://medium.com/enjoy-algorithm/trapping-rain-water-a79938abf921?source=rss-b64aaa15ce44------2)
 - [How to get started with Competitive Programming?](https://medium.com/enjoy-algorithm/how-to-get-started-with-competitive-programming-5bb11e641adb?source=rss-b64aaa15ce44------2)
 - [How to Approach System Design Interview](https://medium.com/enjoy-algorithm/how-to-approach-system-design-interview-4d8689813173?source=rss-b64aaa15ce44------2)
 - [Caching — System Design Concept](https://medium.com/enjoy-algorithm/caching-system-design-concept-500134cff300?source=rss-b64aaa15ce44------2)
-- [Sort an array of 0s, 1s and 2s](https://medium.com/enjoy-algorithm/sort-an-array-of-0s-1s-and-2s-b4e61533e750?source=rss-b64aaa15ce44------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@navtosh2001)
