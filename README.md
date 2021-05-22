@@ -52,6 +52,8 @@ I am a passionate learner who believes in collaboration to solve problems in Com
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Navtosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navtosh-kumar&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&theme=dark" />
+  
+   ![Visitor Count](https://profile-counter.glitch.me/{navtosh-kumar}/count.svg)
 
 </details>
 
