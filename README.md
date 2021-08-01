@@ -5,9 +5,9 @@ I am a passionate learner who believes in collaboration to solve problems in Com
 ## I am highly inclined towards:
 
 - 🎲 Data Structures and Algorithms
-- 👨‍💻 System Design
 - 🚀 Backend Development
 - 🎯 Finance and Economics
+- 👨‍💻 System Design
 
 ### Connect with me:
 
